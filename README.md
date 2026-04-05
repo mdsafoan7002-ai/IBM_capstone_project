@@ -29,5 +29,4 @@ insights on programming languages, tools, and technologies used by developers wo
 ## 📜 Certificate
 This project is part of the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) on Coursera.
 
-- **Your Name**
-- [LinkedIn](#) | [GitHub](#)
+
